@@ -13,7 +13,7 @@
             2)pull
             3)push
             4)mantap
-            5)
+            5)test
         </div>
     </form>
 </body>
