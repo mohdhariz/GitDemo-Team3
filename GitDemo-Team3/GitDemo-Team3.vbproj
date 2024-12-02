@@ -186,7 +186,6 @@
     <Content Include="Global.asax" />
     <Content Include="HtmlPage1.html" />
     <Content Include="Modul01Peribadi.html" />
-    <Content Include="Modul02_Kursus\HtmlPage1.html" />
     <Content Include="Modul03_Akaun\HtmlPage1.html" />
     <Content Include="Modul03_Akaun\HtmlPage2.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
