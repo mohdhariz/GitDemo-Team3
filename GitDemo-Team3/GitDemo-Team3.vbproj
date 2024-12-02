@@ -184,6 +184,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Firdhaus Jepun\WebForm1.aspx" />
     <Content Include="fuad.html" />
+    <Content Include="Fuad3.html" />
     <Content Include="Global.asax" />
     <Content Include="HtmlPage1.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
