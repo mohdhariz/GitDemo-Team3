@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# GitDemo-Team3/GitDemo-Team3.vbproj => cth VB file
+
+/GitDemo-Team3/Images/dynamic/*
+
