@@ -186,6 +186,7 @@
     <Content Include="Global.asax" />
     <Content Include="HtmlPage1.html" />
     <Content Include="Modul01Peribadi.html" />
+    <Content Include="Modul02_Kursus\HtmlPage1.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -372,7 +373,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
-    <Folder Include="Modul02_Kursus\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
